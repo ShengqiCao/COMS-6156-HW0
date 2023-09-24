@@ -1,8 +1,8 @@
 # E6156 - Topics in SW Engineering: Cloud Computing<br>First Example Microservice
 
-__Author:__ Donald F. Ferguson
+__Author:__ Shengqi Cao
 
-## Local Project Execution
+Local Project Execution
 
 ### Setup
 
@@ -23,7 +23,6 @@ PyCharm. There should be a terminal tab at the bottom of the PyCharm window.
 - In the terminal, type ```pip install -r requirements.txt``` This will install the necessary
 Python packages.
 
-  
 - You can now execute the application by using the ```run``` feature in PyCharm or directly
 from the terminal prompt line by typing ```python main.py```
 
@@ -37,11 +36,6 @@ from the terminal prompt line by typing ```python main.py```
 ### Execution
 
 - Click on ```http://0.0.0.0:8012``` link to open in the browser. You can also copy and past the link.
-You will see something of the form
-
-| <img src="./browser-screen-1.png"> |
-| :---: |
-| __Simple Execution__ |
 
 
 - Accessing the URL ```http://0.0.0.0:8012/docs``` will navigate to the [OpenAPI](https://www.openapis.org/)
